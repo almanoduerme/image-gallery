@@ -12,7 +12,9 @@ const Gallery = () => {
     {id: 7, src: "https://images.pexels.com/photos/667228/pexels-photo-667228.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 7', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
     {id: 8, src: "https://images.pexels.com/photos/2361952/pexels-photo-2361952.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 8', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
     {id: 9, src: "https://images.pexels.com/photos/160839/cat-animal-love-pet-160839.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 9', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
-    {id: 10, src: "https://images.pexels.com/photos/4053516/pexels-photo-4053516.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 10', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
+    {id: 10, src: "https://images.pexels.com/photos/7633208/pexels-photo-7633208.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 10', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
+    {id: 11, src: "https://images.pexels.com/photos/8310631/pexels-photo-8310631.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 10', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
+    {id: 12, src: "https://images.pexels.com/photos/6638266/pexels-photo-6638266.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 10', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
   ];
 
   return (

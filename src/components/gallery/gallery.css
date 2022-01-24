@@ -22,10 +22,12 @@ img {
 
 .image:hover {
   opacity: 0.7;
+  transform: rotate(2deg);
 }
 
 @media screen and (max-width: 768px) {
   .image:hover {
-    opacity: 1;
+    opacity: none;
+    transform: none;
   }
 }

@@ -1,7 +1,7 @@
 import React from "react";
-import "./footer.css";
+import "./socialLinks.css";
 
-const Footer = () => {
+const SocialLinks = () => {
   return (
     <footer className="footer">
       <a
@@ -28,4 +28,4 @@ const Footer = () => {
   );
 };
 
-export default Footer;
+export default SocialLinks;
