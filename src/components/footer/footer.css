@@ -1,0 +1,8 @@
+.footer {
+  text-align: center;
+  margin-top: .4rem;
+}
+
+.link:hover {
+    opacity: .7;
+}
