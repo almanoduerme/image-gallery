@@ -3,12 +3,16 @@ import './gallery.css';
 
 const Gallery = () => {
   const images = [
-    {id: 1, src: "https://images.pexels.com/photos/33787/chimpanzee-sitting-sad-mammal.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 1', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
-    {id: 2, src: "https://images.pexels.com/photos/1551437/pexels-photo-1551437.png?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 2', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
+    {id: 1, src: "https://images.pexels.com/photos/9429840/pexels-photo-9429840.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 1', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
+    {id: 2, src: "https://images.pexels.com/photos/2646483/pexels-photo-2646483.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 2', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
     {id: 3, src: "https://images.pexels.com/photos/2173872/pexels-photo-2173872.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 3', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
     {id: 4, src: "https://images.pexels.com/photos/1715092/pexels-photo-1715092.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 4', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
-    {id: 5, src: "https://images.pexels.com/photos/115526/pexels-photo-115526.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 5', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
-    {id: 6, src: "https://images.pexels.com/photos/5967959/pexels-photo-5967959.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 6', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
+    {id: 5, src: "https://images.pexels.com/photos/1107807/pexels-photo-1107807.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 5', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
+    {id: 6, src: "https://images.pexels.com/photos/4056753/pexels-photo-4056753.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 6', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
+    {id: 7, src: "https://images.pexels.com/photos/667228/pexels-photo-667228.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 7', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
+    {id: 8, src: "https://images.pexels.com/photos/2361952/pexels-photo-2361952.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 8', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
+    {id: 9, src: "https://images.pexels.com/photos/160839/cat-animal-love-pet-160839.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 9', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
+    {id: 10, src: "https://images.pexels.com/photos/4053516/pexels-photo-4053516.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", title: 'Photo 10', description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout'},
   ];
 
   return (
